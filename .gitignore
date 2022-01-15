@@ -1,0 +1,5 @@
+# Ignore API KEY .txt file
+api_keys.txt
+
+# Ignore venv folder and every file in it
+venv/
