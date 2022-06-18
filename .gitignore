@@ -3,3 +3,7 @@ api_keys.txt
 
 # Ignore venv folder and every file in it
 venv/
+.env
+
+# Ignore __pycache__
+__pycache__
